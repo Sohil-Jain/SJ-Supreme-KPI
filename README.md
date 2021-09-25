@@ -2,12 +2,12 @@
 SJ Supreme KPI, part of a Supreme Bundle, provides a large set of customizable features that can be completely fine tuned as per the needs.
  
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sohil-Jain/SJ-Supreme-KPI?logo=Github&style=social"> &nbsp; &nbsp;
+<img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/w/Sohil-Jain/SJ-Supreme-KPI"> &nbsp; &nbsp;
+<img  src="https://img.shields.io/badge/Javascript-90%25-green"> &nbsp; &nbsp;
 <img alt="Discord" src="https://img.shields.io/discord/891389288942538762?logo=discord"> &nbsp; &nbsp; 
-<img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/w/Sohil-Jain/SJ-Supreme-KPI"> &nbsp; &nbsp; 
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> &nbsp; &nbsp; 
- <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> &nbsp; &nbsp; 
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> &nbsp; &nbsp; 
- <img alt="Angular" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"> &nbsp; &nbsp; 
+<img alt="Discord" src="https://img.shields.io/badge/Rating-4%2F5-brightgreen"> &nbsp; &nbsp;
+ <img alt="GitHub issues" src="https://img.shields.io/github/issues/Sohil-Jain/SJ-Supreme-KPI"> &nbsp; &nbsp;
+<img alt="GitHub" src="https://img.shields.io/github/license/Sohil-Jain/SJ-Supreme-KPI">
  
 # Author <br>
 Sohil Jain 
