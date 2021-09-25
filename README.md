@@ -1,7 +1,7 @@
 # SJ Supreme KPI
 SJ Supreme KPI, part of a Supreme Bundle, provides a large set of customizable features that can be completely fine tuned as per the needs.
  
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sohil-Jain/SJ-Supreme-KPI?logo=Github&style=social"> &nbsp; &nbsp;  <img alt="Chromium HSTS preload" src="https://img.shields.io/hsts/preload/github.com"> &nbsp; &nbsp; 
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sohil-Jain/SJ-Supreme-KPI?logo=Github&style=social"> &nbsp; &nbsp;
 <img alt="Discord" src="https://img.shields.io/discord/891389288942538762?logo=discord"> &nbsp; &nbsp; 
 <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/w/Sohil-Jain/SJ-Supreme-KPI"> &nbsp; &nbsp; 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> &nbsp; &nbsp; 
