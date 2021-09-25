@@ -12,7 +12,7 @@ Below can be achieved within less then a minute.
 
 
 **Features** : <br> 
-Choose the color independently for Background, Icon and Icon Background. <br>
+Choose the color independently for Background, Icon and Icon Background, Dimensions (KPI Labels) and Measures <br>
 Select # of KPi's to display.<br>
 Enable KPI Comparison. ( 2 additional measures available )<br>
 Create customized alert with intuitive interface.<br>
