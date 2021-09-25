@@ -1,4 +1,4 @@
-# SJ Supreme KPI
+# SJ Supreme Qlik Sense KPI
 SJ Supreme KPI, part of a Supreme Bundle, provides a large set of customizable features that can be completely fine tuned as per the needs.
  
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sohil-Jain/SJ-Supreme-KPI?logo=Github&style=social"> &nbsp; &nbsp;
