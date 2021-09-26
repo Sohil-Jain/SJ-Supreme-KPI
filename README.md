@@ -18,11 +18,11 @@ Below can be achieved within less then a minute.
 ![image](https://user-images.githubusercontent.com/90700927/134782946-ca311d68-9f57-4d2a-9f3e-34cef9c93a05.png)
 
 # Features <br> 
-Choose the color independently for Background, Icon and Icon Background, Dimensions (KPI Labels) and Measures <br>
-Select # of KPi's to display.<br>
-Enable KPI Comparison. ( 2 additional measures available )<br>
-Create customized alert with intuitive interface.<br>
-Enable additional info by hovering over the KPI.
+1. Choose the color independently for Background, Icon and Icon Background, Dimensions (KPI Labels) and Measures <br>
+2. Select # of KPi's to display.<br>
+3. Enable KPI Comparison. ( 2 additional measures available )<br>
+4. Create customized alert with intuitive interface.<br>
+5. Enable additional info by hovering over the KPI.
  
 # Contributing <br>
 Found a bug? Have a request? Have a question? Please create an <a href="https://github.com/Sohil-Jain/SJ-Supreme-KPI/issues">issue</a> on GitHub.
