@@ -6,8 +6,7 @@ SJ Supreme KPI, part of a Supreme Bundle, provides a large set of customizable f
 <img  src="https://img.shields.io/badge/Javascript-90%25-green"> &nbsp; &nbsp;
 <img alt="Discord" src="https://img.shields.io/discord/891389288942538762?logo=discord"> &nbsp; &nbsp; 
 <img alt="Discord" src="https://img.shields.io/badge/Rating-4%2F5-brightgreen"> &nbsp; &nbsp;
- <img alt="GitHub issues" src="https://img.shields.io/github/issues/Sohil-Jain/SJ-Supreme-KPI"> &nbsp; &nbsp;
-<img alt="GitHub" src="https://img.shields.io/github/license/Sohil-Jain/SJ-Supreme-KPI">
+ <img alt="GitHub" src="https://img.shields.io/github/license/Sohil-Jain/SJ-Supreme-KPI">
  
 # Author <br>
 Sohil Jain 
